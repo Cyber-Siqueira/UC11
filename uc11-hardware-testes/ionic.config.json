@@ -1,0 +1,7 @@
+{
+  "name": "uc11-hardware-testes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
